@@ -18,6 +18,6 @@
     "libs/Chart.js"
   ],
   "dependencies": {
-    "chartjs": "^2.3.0"
+    "chartjs": "2.3.0"
   }
 }
